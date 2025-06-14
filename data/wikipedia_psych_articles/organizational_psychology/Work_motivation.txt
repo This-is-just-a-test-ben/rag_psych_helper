@@ -1,0 +1,238 @@
+Work motivation is a person's internal disposition toward work. To further this, an incentive is the anticipated reward or aversive event available in the environment. While motivation can often be used as a tool to help predict behavior, it varies greatly among individuals and must often be combined with ability and environmental factors to actually influence behavior and performance. Results from a 2012 study, which examined age-related differences in work motivation, suggest a "shift in people's motives" rather than a general decline in motivation with age. That is, it seemed that older employees were less motivated by extrinsically related features of a job, but more by intrinsically rewarding job features. Work motivation is strongly influenced by certain cultural characteristics. Between countries with comparable levels of economic development, collectivist countries tend to have higher levels of work motivation than do countries that tend toward individualism. Similarly measured, higher levels of work motivation can be found in countries that exhibit a long versus a short-term orientation. Also, while national income is not itself a strong predictor of work motivation, indicators that describe a nation's economic strength and stability, such as life expectancy, are. Work motivation decreases as a nation's long-term economic strength increases. Currently work motivation research has explored motivation that may not be consciously driven. This method goal setting is referred to as goal priming. 
+It is important for organizations to understand and to structure the work environment to encourage productive behaviors and discourage those that are unproductive given work motivation's role in influencing workplace behavior and performance. Motivational systems are at the center of behavioral organization. Emmons states, “Behavior is a discrepancy-reduction process, whereby individuals act to minimize the discrepancy between their present condition and a desired standard or goal” (1999, p. 28). If we look at this from the standpoint of how leaders can motivate their followers to enhance their performance, participation in any organization involves exercising choice; a person chooses among alternatives, responding to the motivation to perform or ignore what is offered. This suggests that a follower's consideration of personal interests and the desire to expand knowledge and skill has significant motivational impact, requiring the leader to consider motivating strategies to enhance performance. There is general consensus that motivation involves three psychological processes: arousal, direction, and intensity. Arousal is what initiates action. It is fueled by a person's need or desire for something that is missing from their lives at a given moment, either totally or partially. Direction refers to the path employees take in accomplishing the goals they set for themselves. Finally, intensity is the vigor and amount of energy employees put into this goal-directed work performance. The level of intensity is based on the importance and difficulty of the goal. These psychological processes result in four outcomes. First, motivation serves to direct attention, focusing on particular issues, people, tasks, etc. It also serves to stimulate an employee to put forth effort. Next, motivation results in persistence, preventing one from deviating from the goal-seeking behavior. Finally, motivation results in task strategies, which as defined by Mitchell & Daniels, are "patterns of behavior produced to reach a particular goal".
+
+
+== Theories ==
+A number of various theories attempt to describe employee motivation within the discipline of industrial and organizational psychology. At the macro level, work motivation can be categorized into two types, endogenous process (individual, cognitive) theories and exogenous cause (environmental) theories. Many theories fit simply into one type, but hybrid types such as self-determination theory attempt to account for both. 
+It can be helpful to further divide theories into the four broad categories of need-based, cognitive process, behavioral, and job-based.
+
+
+=== Need-based theories ===
+Need-based theories of motivation focus on an employee's drive to satisfy a variety of needs through their work. These needs range from basic physiological needs for survival to higher psychoemotional needs like belonging and self-actualization.
+
+
+==== Maslow's hierarchy of needs ====
+
+Abraham Maslow's Hierarchy of Needs (1943) was applied to offer an explanation of how the work environment motivates employees. In accordance with Maslow's theory, which was not specifically developed to explain behavior in the workplace, employees strive to satisfy their needs in a hierarchical order.
+At the most basic level, an employee is motivated to work in order to satisfy basic physiological needs for survival, such as having enough money to purchase food. The next level of need in the hierarchy is safety, which could be interpreted to mean adequate housing or living in a safe neighborhood. The next three levels in Maslow's theory relate to intellectual and psycho-emotional needs: love and belonging, esteem (which refers to competence and mastery), and finally the highest order need, self-actualization.
+Although Maslow's theory is widely known, in the workplace it has proven to be a poor predictor of employee behavior. Maslow theorized that people will not seek to satisfy a higher level need until their lower level needs are met. There has been little empirical support for the idea that employees in the workplace strive to meet their needs only in the hierarchical order prescribed by Maslow.
+Building on Maslow's theory, Clayton Alderfer (1959) collapsed the levels in Maslow's theory from five to three: existence, relatedness and growth. This theory, called the ERG theory, does not propose that employees attempt to satisfy these needs in a strictly hierarchical manner. Empirical support for this theory has been mixed.
+
+
+==== Need for achievement ====
+Atkinson & McClelland's Need for Achievement Theory is the most relevant and applicable need-based theory in the I–O psychologist's arsenal. Unlike other need-based theories, which try to interpret every need, Need for Achievement allows the I–O psychologist to concentrate research into a tighter focus. Studies show those who have a high need for achievement prefer moderate levels of risk, seek feedback, and are likely to immerse themselves in their work. Achievement motivation can be broken down into three types:
+
+Achievement – seeks position advancement, feedback, and sense of accomplishment
+Authority – need to lead, make an impact and be heard by others
+Affiliation – need for friendly social interactions and to be liked.
+Because most individuals have a combination of these three types (in various proportions), an understanding of these achievement motivation characteristics can be a useful assistance to management in job placement, recruitment, etc.
+The theory is referred to as Need for Achievement because these individuals are theorized to be the most effective employees and leaders in the workplace. These individuals strive to achieve their goals and advance in the organization. They tend to be dedicated to their work and strive hard to succeed. Such individuals also demonstrate a strong desire for increasing their knowledge and for feedback on their performance, often in the form of performance appraisal .
+The Need for Achievement is in many ways similar to the need for mastery and self-actualization in Maslow's hierarchy of needs and growth in the ERG theory. The achievement orientation has garnered more research interest as compared to the need for affiliation or power.
+
+
+=== Cognitive process theories ===
+
+
+==== Equity theory ====
+
+Equity Theory is derived from social exchange theory. It explains motivation in the workplace as a cognitive process of evaluation, whereby the employee seeks to achieve a balance between inputs or efforts in the workplace and the outcomes or rewards received or anticipated.
+In particular, Equity Theory research has tested employee sentiments regarding equitable compensation. Employee inputs take the form of work volume and quality, performance, knowledge, skills, attributes and behaviors. The company-generated outcomes include rewards such as compensation, praise and advancement opportunities. The employee compares their inputs relative to outcomes; and, then, extrapolating to the social context, the employee compares their input/outcome ratio with the perceived ratios of others. If the employee perceives an inequity, the theory posits that the employee will adjust their behavior to bring things into balance.
+Equity Theory has proven relevance in situations where an employee is under-compensated. If an employee perceives that they are under-compensated, they can adjust their behavior to achieve equilibrium in several different ways:
+
+reduce input to a level they believe better matches their level of compensation
+change or adjust the comparative standard to which they are comparing their situation
+cognitively adjust their perception of their inputs or the outcomes received
+withdraw
+ask their employer for increased compensation
+engage in employee theft
+If the employee is able to achieve a ratio of inputs to outputs that they perceive to be equitable, then the employee will be satisfied. The employee's evaluation of input-to-output ratios and subsequent striving to achieve equilibrium is an ongoing process.
+While it has been established that Equity Theory provides insight into scenarios of under-compensation, the theory has generally failed to demonstrate its usefulness in understanding scenarios of overcompensation. In this way, it could be said Equity Theory is more useful in describing factors that contribute to a lack of motivation rather than increasing motivation in the workplace. Concepts of organizational justice later expanded upon the fundamentals of Equity Theory and pointed to the importance of fairness perceptions in the workplace.
+There are four fairness perceptions applied to organizational settings:
+
+Distributive justice, or the perception of equality of an individual's outcomes
+Procedural justice, or the fairness of the procedures used to determine one's outcomes
+Interactional justice, or the perception that one has been treated fairly with dignity and respect
+Informational Justice, or the perception that one has been given all the information one needs in order to best perform their jobs
+When workplace processes are perceived as fair, the benefits to an organization can be high. In such environments, employees are more likely to comply with policies even if their personal outcome is less than optimal. When workplace policies are perceived as unfair, risks for retaliation and related behaviors such as sabotage and workplace violence can increase.
+Leventhal (1980) described six criteria for creating fair procedures in an organization. He proposed that procedures and policies should be:
+
+consistently applied to everyone in the organization
+free from bias
+accurate
+correctable
+representative of all concerns
+based on prevailing ethics
+
+
+==== Expectancy theory ====
+
+According to Vroom's Expectancy Theory, an employee will work smarter and/or harder if they believe their additional efforts will lead to valued rewards. Expectancy theory explains this increased output of effort by means of the equation
+F = E (Σ I × V)
+whereas:
+F (Effort or Motivational Force) = Effort the employee will expend to achieve the desired performance;
+E (Expectancy) = Belief that effort will result in desired level of performance;
+I (Instrumentality) = Belief that desired level of performance will result in desired outcome;
+V (Valence) = Value of the outcome to the employee
+Expectancy theory has been shown to have useful applications in designing a reward system. If policies are consistently, clearly and fairly implemented, then the instrumentality would be high. If the rewards are substantial enough to be meaningful to an employee, then the valence would be also considered high. A precursor to motivation is that the employee finds the reward(s) attractive. In some instances, the reward or outcome might inadvertently be unattractive, such as increased workload or demanding travel that may come with a promotion. In such an instance, the valence might be lower for individuals who feel work–life balance is important, for example.
+Expectancy theory posits employee satisfaction to be an outcome of performance rather than the cause of performance. However, if a pattern is established whereas an employee understands his performance will lead to certain desired rewards, an employee's motivation can be strengthened based on anticipation. If the employees foresee a high probability that they can successfully carry out a desired behavior, and that their behavior will lead to a valued outcome, then they will direct their efforts toward that end.
+Expectancy theory has been shown to have greater validity in research in within-subject designs rather than between-subjects designs. That is, it is more useful in predicting how an employee might choose among competing choices for their time and energy, rather than predicting the choices two different employees might make.
+
+
+==== Goal-setting theory ====
+
+An I–O psychologist can assist an employer in designing task-related goals for their employees that are
+
+attainable
+specific
+appropriately difficult,
+feedback providing
+in hopes of rousing tunnel vision focus in the employees. Following S.M.A.R.T criteria is also suggested.
+
+Studies have shown both feedback from the employer and self-efficacy (belief in one's capabilities to achieve a goal) within the employee must be present for goal-setting to be effective. However, because of the tunnel vision focus created by goal-setting theory, several studies have shown this motivational theory may not be applicable in all situations. In fact, in tasks that require creative on-the-spot improvising, goal-setting can even be counterproductive. Furthermore, because clear goal specificity is essential to a properly designed goal-setting task, multiple goals can create confusion for the employee and the result is a muted overall drive. Despite its flaws, Goal-setting Theory is arguably the most dominant theory in the field of I–O psychology; over one thousand articles and reviews published in just over thirty years.
+Locke suggested several reasons why goals are motivating: they direct attention, lead to task persistence and the development of task strategies for accomplishing the goal. In order for a goal to be motivating, the employee or work group must first accept the goal. While difficult goals can be more motivating, a goal still needs to appear achievable, which in turn will lead to greater goal acceptance. The person or group should have the necessary skills and resources to achieve the goal, or goal acceptance could be negatively impacted. Specific goals that set a performance expectation are more motivating than those that are vague. Similarly, more proximal goals have greater motivation impact than those that are very long range or distal goals.
+There are three types of factors that influence goal commitment:
+
+External- The external factors that affect it are authority, peer influence and external rewards. Complying with the dictates of an authority figure such as boss has been shown to be an inducement to high goal commitment. Goal commitment increases when the authority figure is physically present, supportive, pay increases, peer pressure and external rewards.
+Interactive- The factors that influence commitment here are competition and the opportunity to participate in setting goals. It has been shown to be an inducement to setting higher goals and working harder to reach them.
+Internal- these come from self-administered rewards and the expectation of success. The commitment decreases when the expectation to achieve is decreased.
+From: Psychology and Work Today by Schultz and Schultz.
+Feedback while the employee or group is striving for the goal is seen as crucial. Feedback keeps employees on track and reinforces the importance of the goal as well as supporting the employees in adjusting their task strategies.
+Goal-setting Theory has strong empirical support dating back thirty years. However, there are some boundary conditions that indicate in some situations, goal-setting can be detrimental to performance on certain types of tasks. Goals require a narrowing of one's focus, so for more complex or creative tasks, goals can actually inhibit performance because they demand cognitive resources. Similarly, when someone is learning a new task, performance-related goals can distract from the learning process. During the learning process, it may be better to focus on mastering the task than achieving a particular result. Finally, too many goals can become distracting and counterproductive, especially if they conflict with one another.
+
+
+==== Social cognitive theory ====
+
+Bandura's Social Cognitive Theory is another cognitive process theory that offers the important concept of self-efficacy for explaining employee's level of motivation relative to workplace tasks or goals. Self-efficacy is an individual's belief in their ability to achieve results in a given scenario. Empirically, studies have shown a strong correlation between self-efficacy and performance. The concept has been extended to group efficacy, which is a group's belief that it can achieve success with a given task or project.
+Self-efficacy is seen to mediate important aspects of how an employee undertakes a given task, such as the level of effort and persistence. An employee with high self-efficacy is confident that effort they put forth has a high likelihood of resulting in success. In anticipation of success, an employee is willing to put forth more effort, persist longer, remain focused on the task, seek feedback and choose more effective task strategies.
+The antecedents of self-efficacy may be influenced by expectations, training or past experience and requires further research. It has been shown that setting high expectations can lead to improved performance, known as the Pygmalion effect. Low expectations can lower self-efficacy and is referred to as the golem effect.
+Relative to training, a mastery-oriented approach has been shown to be an effective way to bolster self-efficacy. In such an approach, the goal of training is to focus on mastering skills or tasks rather than focusing on an immediate performance-related outcome. Individuals who believe that mastery can be achieved through training and practice are more likely to develop greater self-efficacy than those who see mastery as a product of inherent talent than is largely immutable.
+Major concepts of Social Cognitive Theory correlated with the effect of individual behavior change:
+
+Self-efficacy, or an individual's confidence in accomplishing a behavior
+Behavioral capability, or knowledge and skill to execute a behavior
+Expectations, or anticipation of outcomes of a behavior
+Expectancies, or giving values to the outcome of behavior change
+Self-control, or regulating behavior or performance
+Observational learning, or watching the actions and outcomes performed by others
+Reinforcements, or encouraging motivations and rewards to promote behavior change
+
+
+=== Behavioral approach to motivation ===
+The behavioral approach to workplace motivation is known as Organizational Behavioral Modification. This approach applies the tenets of behaviorism developed by B.F. Skinner to promote employee behaviors that an employer deems beneficial and discourage those that are not.
+Any stimulus that increases the likelihood of a behavior increasing is a reinforcer. An effective use of positive reinforcement would be frequent praise while an employee is learning a new task. An employee's behavior can also be shaped during the learning process if approximations of the ideal behavior are praised or rewarded. The frequency of reinforcement is an important consideration. While frequent praise during the learning process can be beneficial, it can be hard to sustain indefinitely.
+A variable-ratio schedule of reinforcement, where the frequency of reinforcement varies unpredictably, also can be highly effective if used in instances where it is ethical to do so. Providing praise on a variable-ratio schedule would be appropriate, whereas paying an employee on an unpredictable variable-ratio schedule would not be.
+Compensation and other reward programs provide behavioral reinforcement, and if carefully crafted, can provide powerful incentives to employees. Behavioral principles can also be used to address undesirable behaviors in the workplace, but punishment should be used judiciously. If overused, punishment can negatively impact employee's perception of fairness in the workplace.
+In general, the less time that elapses between a behavior and its consequence, the more impactful a consequence is likely to be.
+
+
+=== Job-based theories ===
+The job-based theories hold that the key to motivation is within an employee's job itself. Generally, these theories say that jobs can be motivating by their very design. This is a particularly useful view for organizations, because the practices set out in the theories can be implemented more practically in an organization. Ultimately, according to the job-based theories, the key to finding motivation through one's job is being able to derive satisfaction from the job content.
+
+
+==== Motivation–hygiene theory ====
+
+Herzberg's Motivation–Hygiene Theory holds that the content of a person's job is the primary source of motivation. In other words, he argued against the commonly held belief that money and other compensation is the most effective form of motivation to an employee. Instead, Herzberg posed that high levels of what he dubbed hygiene factors (pay, job security, status, working conditions, fringe benefits, job policies, and relations with co-workers) could only reduce employee dissatisfaction (not create satisfaction). Motivation factors (level of challenge, the work itself, responsibility, recognition, advancement, intrinsic interest, autonomy, and opportunities for creativity) however, could stimulate satisfaction within the employee, provided that minimum levels of the hygiene factors were reached. For an organization to take full advantage of Herzberg's theory, they must design jobs in such a way that motivators are built in, and thus are intrinsically rewarding. While the Motivation–Hygiene Theory was the first to focus on job content, it has not been strongly supported through empirical studies.
+Frederick Herzberg also came up with the concept of job enrichment, which expands jobs to give employees a greater role in planning, performing, and evaluating their work, thus providing the chance to satisfy their motivators needs. Some suggested ways would be to remove some management control, provide regular and continuously feedback. Proper job enrichment, therefore, involves more than simply giving the workers extra tasks to perform. It means expanding the level of knowledge and skills needed to perform the job.
+
+
+==== Job characteristics theory ====
+Shortly after Herzberg's Two-factor theory, Hackman and Oldham contributed their own, more refined, job-based theory; Job characteristic theory (JCT). JCT attempts to define the association between core job dimensions, the critical psychological states that occur as a result of these dimensions, the personal and work outcomes, and growth-need strength. Core job dimensions are the characteristics of a person's job. The core job dimensions are linked directly to the critical psychological states. The Job Characteristics Model (JCM), as designed by Hackman and Oldham attempts to use job design to improve employee intrinsic motivation. They show that any job can be described in terms of five key job characteristics:
+According to the JCT, an organization that provides workers with sufficient levels of skill variety (using different skills and talents in performing work), task identity (contributing to a clearly identifiable larger project), and task significance (impacting the lives or work of other people) is likely to have workers who feel their work has meaning and value. Sufficiently high levels of autonomy (independence, freedom and discretion in carrying out the job) will inspire the worker to feel responsibility for the work; and sufficiently high levels of Task Feedback (receiving timely, clear, specific, detailed, actionable information about the effectiveness of their job performance) will inspire the worker to feel the organization is authentically interested in helping to foster their professional development and growth. The combined effect of these psychological states results in desired personal and work outcomes: intrinsic motivation, job satisfaction, performance quality, low absenteeism, and low turnover rate.
+Lastly, the glue of this theory is the "growth-need strength" factor which ultimately determines the effectiveness of the core job dimensions on the psychological states, and likewise the effectiveness of the critical psychological states on the affective outcomes. Further analysis of Job Characteristics Theory can be found in the Work Design section below.
+Hackman and Oldman created the Job Diagnostic Survey (JDS) which measures three parts of their theory.
+
+Employees views of the job characteristics
+The level of growth needed by each employee
+Employees overall job satisfaction
+JDS is the most frequently and commonly used tool to measure job and work design. JDS is a self-report which has small detailed phrases for the different job characteristics. An employee will be asked to fill out the JDS and rate how precise each statement describes their job.
+
+
+=== Self-regulation theory ===
+A theory based in self-efficacy, Self Regulation is "A theory of motivation based on the setting of goals and the receipt of accurate feedback that is monitored to enhance the likelihood of goal attainment". It is presumed that people consciously set goals for themselves that guide and direct their behavior toward the attainment of these goals. These people also engage in self-monitoring or self-evaluation. Self-evaluation can be helped along if feedback is given when a person is working on their goals because it can align how a person feels about how they are doing to achieve a goal and what they are actually doing to achieve their goals. In short, feedback provides an "error" message that a person who is off-track can reevaluate their goal.
+This theory has been linked to Goal setting and Goal Setting Theory, which has been mentioned above.
+
+
+=== Work engagement ===
+
+A new approach to work motivation is the idea of Work Engagement or "A conception of motivation whereby individuals are physically immersed in emotionally and intellectually fulfilling work." This theory draws on many aspects of I/O Psychology. This theory proposes that motivation taps into energy where it allows a person to focus on a task. According to Schaufeli and Bakker there are three dimensions to work engagement.
+
+Vigor- a sense of personal energy for work
+Dedication- experiencing a sense of pride in one's work and challenge from it
+Absorption- The Capacity to be engrossed in work and experiencing a sense of flow.
+Work Engagement forwards the notion that individuals have the ability to contribute more to their own productivity than organizations typically allow. An example would be to allow workers to take some risks and not punish them if the risks leads to unsuccessful outcomes. "In short, work engagement can be thought of as an interaction of individuals and work. Engagement can occur when both facilitate each other, and engagement will not occur when either (or both) thwarts each other." Some critics of work engagement say that this is nothing new, just "old wine in a new bottle."
+
+
+== Applications of motivation ==
+
+
+=== Organizational reward systems ===
+Organizational reward systems have a significant impact on employees' level of motivation. Rewards can be either tangible or intangible. Various forms of pay, such as salary, commissions, bonuses, employee ownership programs and various types of profit or gain sharing programs, are all important tangible rewards. While fringe benefits have a positive impact on attraction and retention, their direct impact on motivation and performance is not well-defined.
+Salaries play a crucial role in the tangible reward system. They are an important factor in attracting new talent to an organization as well as retaining talent. Compensating employees well is one way for an organization to reinforce an employee's value to the organization. If an organization is known for paying their employees top dollar, then they may develop a positive reputation in the job market as a result.
+Through incentive compensation structures, employees can be guided to focus their attention and efforts on certain organizational goals. The goals that are reinforced through incentive pay should be carefully considered to make sure they are in alignment with the organizational objectives. If there are multiple rewards programs, it is important to consider if there might be any conflicting goals. For example, individual and team-based rewards can sometime work at cross-purposes.
+Important forms of intangible rewards include praise, recognition and rewards. Intangible rewards are ones from which an employee does not derive any material gain. Such rewards have the greatest impact when they soon follow the desired behavior and are closely tied to the performance. If an organization wants to use praise or other intangible rewards effectively, praise should be offered for a high level of performance and for things that they employee has control over. Some studies have shown that praise can be as effective as tangible rewards.
+Other forms of intangible performance include status symbols, such as a corner office, and increased autonomy and freedom. Increased autonomy demonstrates trust in an employee, may decrease occupational stress and improve job satisfaction. A 2010 study found positive relationships between job satisfaction and life satisfaction, happiness at work, positive affect, and the absence of negative affect which may also be interrelated with work motivation. Since it may be hard for an employee to achieve a similar level of trust in a new organization, increased autonomy may also help improve retention.
+
+
+=== Motivation through design of work ===
+Reward-based systems are certainly the more common practice for attempting to influence motivation within an organization, but some employers strive to design the work itself to be more conducive. There are multiple ways an organization can leverage job design principles to increase motivation. Three of the predominant approaches will be discussed here: the Humanistic Approach, the Job Characteristics Approach, and the Interdisciplinary Approach.
+
+Humanistic Approach
+The Humanistic Approach to job design was a reaction to "worker dissatisfaction over Scientific Management" and focused on providing employees with more input and an opportunity to maximize their personal achievement as referenced by Jex and Britt. Jobs should also provide intellectual stimulation, opportunities for creativity, and greater discretion over work-related activities. Two approaches used in the Humanistic Approach to job design are job rotation and job enrichment. Job rotation allows employees to switch to different jobs which allows them to learn new skills and provides them with greater variety. According to Jex and Britt, this would be most effective for simple jobs that can become mundane and boring over time. Job enrichment is focused on leveraging those aspects of jobs that are labeled motivators, such as control, intellectual challenge, and creativity. The most common form of job enrichment is vertical loading where additional tasks or discretion enhances the initial job design. While there is some evidence to support that job enrichment improves motivation, it is important to note that it is not effective for all people. Some employees are not more motivated by enriched jobs.
+
+Job Characteristics Approach
+The Job Characteristics Approach to job design is based on how core dimensions affect motivation. These dimensions include autonomy, variety, significance, feedback, and identity. The goal of JCT job design is to utilize specific interventions in an effort to enhance these core dimensions.
+
+Vertical Loading – Like the tactic used in the Humanistic Job Enrichment approach, this intervention is designed to enhance autonomy, task identity, task significance, and skill variety by increasing the number of tasks and providing greater levels of control over how those tasks are completed.
+Task Combination – By combining tasks into larger units of work and responsibility, task identity may be improved.
+Natural Work Units – A form of task combination that represents a logical body of work and responsibility that may enhance both task significance and task identity.
+Establishing Client Relationships – Designs interactions between employees and customers, both internal and external, to enhance task identity, feedback, and task significance. This is accomplished by improving the visibility of beneficial effects on customers.
+Feedback – By designing open feedback channels, this intervention attempts to increase the amount and value of feedback received.
+The process of designing work so as to enhance individual motivation to perform the work is called Job enrichment
+While the JCT approach to job design has a significant impact on job satisfaction, the effects on performance are more mixed. Much of the success of implementation of JCT practices is dependent on the organization carefully planning interventions and changes to ensure impact throughout the organization is anticipated. Many companies may have difficulty implementing JCT changes throughout the organization due to its high cost and complexity.
+
+Interdisciplinary Approach
+One of the most recent approaches to work design, the Interdisciplinary Approach is based on the use of careful assessment of current job design, followed by a cost/benefit analysis, and finally changes based on the area in which a job is lacking. The assessment is conducted using the Multi-method Job Design Questionnaire, which is used to determine if the job is deficient in the areas of motivational, mechanistic, biological, or perceptual motor support. Motivational improvements are aligned with the Job Characteristics theory dimensions. Mechanistic improvements are focused on improving the efficiency of the job design. Biological improvements focus on improvements to ergonomics, health conditions, and employee comfort. Finally, perceptual motor improvements focus on the nature and presentation of the information an employee must work with. If improvements are identified using the questionnaire, the company then evaluates the cost of making the improvements and determines if the potential gains in motivation and performance justify those costs. Because of the analysis and cost/benefit components of the Interdisciplinary Approach, it is often less costly for organizations and implementations can be more effective. Only changes deemed to be appropriate investments are made, thus improving motivation, productivity, and job satisfaction while controlling costs.
+
+
+== Other factors affecting motivation ==
+
+
+=== Creativity ===
+On the cutting edge of research pertaining to motivation in the workplace is the integration of motivation and creativity. Essentially, according to Ambrose and Kulik, the same variables that predict intrinsic motivation are associated with creativity. This is a helpful conclusion in that organizations can measure and influence both creativity and motivation simultaneously. Further, allowing employees to choose creative and challenging jobs/tasks has been shown to improve motivation. Malmelin and Virta indicate creating new processes or procedures goes along with the jobs/task. In order to increase creativity, setting "creativity goals" can positively influence the process, along with allowing more autonomy (i.e., giving employees freedom to feel/be creative). Other studies have found that team support may enable more creativity in a group setting, also increasing motivation. Keeping creative employees productive and satisfied could be the key to retaining even the most difficult employees.
+
+
+=== Groups and teams ===
+As the workplace is changing to include more group-based systems, researching motivation within these groups is of growing importance. To date, a great amount of research has focused on the Job characteristic theory and the Goal-setting Theory. While more research is needed that draws on a broader range of motivation theories, research thus far has concluded several things: (a) semi-autonomous groups report higher levels of job scope (related to intrinsic job satisfaction), extrinsic satisfaction, and organizational commitment; and (b) developmentally mature teams have higher job motivation and innovation. Further, voluntarily formed work teams report high work motivation. Though research shows that appropriate goal-setting influences group motivation and performance, more research is needed in this area (group goals, individual goals, cohesiveness, etc.). There are inseparable mediating variables consisting of group cohesiveness, commitment, and performance. As the workplace environment calls for more and more teams to be formed, research into motivation of teams is ever-pressing. Thus far, overarching research merely suggests that individual-level and team-level sources of motivation are congruent with each other. Consequently, research should be expanded to apply more theories of motivation; look at group dynamics; and essentially conclude how groups can be most impacted to increase motivation and, consequently, performance.
+
+
+=== Culture ===
+Organizational cultures can be broken down into three groups: Strong, Strategically Appropriate, and Adaptive. Each has been identified with high performing organizations and has particular implications on motivation in the workplace.
+
+Strength
+The most widely reported effect of culture on performance is that strong cultures result in high performance. The three reasons for this are goal alignment, motivation, and the resulting structure provided. Goal alignment is driven by the proposed unified voice that drives employees in the same direction. Motivation comes from the strength of values and principles in such a culture. And structure is provided by these same attributes which obviate the need for formal controls that could stifle employees. There are questions that concern researchers about causality and the veracity of the driving voice of a strong culture.
+
+Strategic Appropriateness
+A strategically appropriate culture motivates due to the direct support for performance in the market and industry: "The better the fit, the better the performance; the poorer the fit, the poorer the performance," state Kotter & Heskett. There is an appeal to the idea that cultures are designed around the operations conditions a firm encounters although an outstanding issue is the question of adapting culture to changes in the environment.
+
+Adaptability
+Another perspective in culture literature asserts that in order for an organization to perform at a high level over a long period of time, it must be able to adapt to changes in the environment. According to Ralph Kilmann, in such a culture "there is a shared feeling of confidence: the members believe, without a doubt, that they can effectively manage whatever new problems and opportunities will come their way." In effect, the culture is infused with a high degree of self-efficacy and confidence. As with the strong culture, critics point to the fact that the theory provides nothing in the way of appropriate direction of adaptation that leads to high performance.
+
+Competing Values Framework
+Another perspective on culture and motivation comes from the work of Cameron & Quinn and the Competing Values Framework. They divide cultures into four quadrants: Clan, Adhocracy, Market, Hierarchy, with particular characteristics that directly affect employee motivation.
+
+Clan cultures are collaborative and driven by values such as commitment, communication, and individual development. Motivation results from human development, employee engagement, and a high degree of open communication.
+Adhocracy cultures are creative and innovative. Motivation in such cultures arises from finding creative solutions to problems, continually improving, and empowering agility.
+Market cultures focus on value to the customer and are typically competitive and aggressive. Motivation in the market culture results from winning in the marketplace and creating external partnerships.
+And finally, Hierarchy cultures value control, efficiency, and predictability. Motivation in such a culture relies on effectiveness, capability, and consistency. Effective hierarchy cultures have developed mature and capable processes which support smooth operations.
+Culture has been shown to directly affect organizational performance. When viewed through the lens of accepted behaviors and ingrained values, culture also profoundly affects motivation. Whether one looks at the type of culture—strong, strategically appropriate, or adaptive—as Kotter & Heskett do, or at the style of culture—Clan, Adhocracy, Market, or Hierarchy—as Cameron & Quinn do, the connection between culture and motivation becomes clear and provides insights into how to hire, task, and motivate employees.
+Personality Approach
+Personality traits, pre-dispositions, and behaviors can have an outcome on work motivation. Influences can be conceptualized in the Big Five trait theory (Barrick & Mount, 1991; John & Srivastava, 1999). 
+There are two types of personalities: Type A and Type B. Type A's are considered more dominant, aggressive, and work oriented. Type B's are detail focused, task oriented, and possess higher self-control. Individual perceptions may differ based on the job stressor or outcome (Day, & Jreige, 2002). Work demands that reflect on personality attributes can depend on tasks, job complexity, relationships, and work stress. The personality attributes most important for your workplace comes down to understanding the organizational work behaviors, characteristics of the jobs, and future strategies of the company.
+Personalities can be an influence on creativity in the workforce and behavioral expectations.
+
+
+== See also ==
+Public service motivation
+
+
+== References ==

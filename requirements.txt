@@ -1,0 +1,6 @@
+langchain>=0.1.0
+langchain-community>=0.0.30
+chromadb>=0.4.24
+sentence-transformers>=2.2.2
+openai>=1.0.0
+python-dotenv>=1.0.0

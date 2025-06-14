@@ -1,0 +1,123 @@
+Psychological research refers to research that psychologists conduct for systematic study and for analysis of  the experiences and behaviors of individuals or groups. Their research can have educational, occupational  and clinical applications.
+
+
+== History ==
+Wilhelm Wundt is credited as one of the founders of psychology. He created the first laboratory for psychological research.
+
+
+== Philosophical foundations ==
+
+
+== Ethical considerations ==
+
+Psychological research risks harming the subjects of the research. In order to prevent that harm, proposed studies are usually approved by an institutional review board  to ensure that the risks to the research subjects are justified by the anticipated benefits. IRBs also verify that informed consent has been obtained. This involves documenting that the subject (or legally authorized representative) agrees to being a subject after having been informed of what the research is about, risks and benefits to the subject, that the subject may discontinue participation at any time, and how personally identifiable information will be handled.
+Some research, such as the Milgram experiment, have raised questions about the research ethics and resulted in the revision of the ethical standards of psychological research.
+
+
+== Methodology ==
+
+Psychologists use many research methods, and categorical distinctions of these methods have emerged. Methods can be categorized by the kind of data they produce: qualitative or quantitative—and both these are used for pure or applied research.
+Psychology tends to be eclectic, applying knowledge from other fields. Some of its methods are used within other areas of research, especially in the social and behavioural sciences.
+
+
+=== Experimental methods ===
+
+The field of psychology commonly uses experimental methods in what is known as experimental psychology. Researchers design experiments to test specific hypotheses (the deductive approach), or to evaluate functional relationships (the inductive approach).
+The method of experimentation involves an experimenter changing some influence—the independent variable(IV)— on the research subjects, and studying the effects it produces on an expected aspect—the dependent variable (DV)— of the subjects behaviour or experience. Other variables researchers consider in experimentation are known as the extraneous variables, and are either controllable or confounding (more than one variable at play).
+Confounding variables are external variables that are not taken into account when conducting an experiment. Because they are not controlled for, they can skew experiments results and provide a false or unreliable conclusion. For example, the psychologist Seymour Feshbach conducted an experiment to see how violence on television (the independent variable), affected aggression in adolescent boys (the dependent variable). He published his results in a paper called Television and Aggression in 1971. The paper showed that, in some cases, the lack of violence on television made the boys more aggressive. This was due to a confounding variable, which in this case was frustration. This means that extraneous variables are important to consider when designing experiments, and many methods have emerged to scientifically control them. For this reason, many experiments in psychology are conducted in laboratory conditions where they can be more strictly regulated.
+Alternatively, some experiments are less controlled. Quasi-experiment's are those that a researcher sets up in a controlled environment, but does not control the independent variable. For example, Michael R. Cunningham used a quasi-experiment to "...measure the physical in physical attractiveness." On the other hand, in field experiments the experimenter controls an independent variable (making it the control variable), but does not control the environment where the experiment takes place. Experimenters sometimes apply fewer controls, as a way to lessen potential biases. In a true experiment, participants are randomly chosen to remove the chance of experimenter's bias.
+
+
+=== Observational methods ===
+
+Observational research, (a type of non-experimental, correlational research), involves the researcher observing the ongoing behavior of their subjects. There are multiple methods of observational research such as participant observations, non-participant observations and naturalistic observations.
+Participant observations are methods that involve a researcher joining the particular social group they are studying. For example, the social psychologist, Leon Festinger and his associates, joined a group called The Seekers in order to observe them. The Seekers believed they were in touch with aliens, and that the aliens had told them the world was about to end. When the foretasted event did not happen, Festinger and his associates observed how the attitudes of the group members changed. They published their results in a 1956 book called When Prophecy Fails. David Rosenhan in 1973 published a journal that involved research by participant observations. see: on being sane in insane places.
+The other method of observational research is non-participant observation. In particular  naturalistic methods are methods that simply study behaviours that occur naturally in natural environments—with no manipulation by the observer. The events studied must be natural and not staged. This fact gives naturalistic observational research a high ecological validity. During naturalistic observations, researchers can avoid interfering with the behavior they are observing by using unobtrusive methods, if needed.
+Both types of observational methods are designed to be as reliable as possible. Reliability can be estimated using inter-observer reliability, that is, by comparing observations conducted by different researchers. Intra-observer reliability means estimating the reliability of an observation using a comparison of observations conducted by the same researcher. The reliability of conducted studies is important in any field of science.
+For a statistical perspective of reliability, see also Reliability (statistics).
+
+
+=== Descriptive methods ===
+
+All scientific processes begin with a description based on observation. Theories may develop later to explain these observations or classify associated phenomena. In scientific methodology, the conceptualizing of descriptive research precedes the hypotheses of "explanatory research".
+An example of a descriptive device used in psychological research is the diary, which is used to record observations. There is a history of use of diaries within clinical psychology. Examples of psychologists that used them include B.F. Skinner (1904–1990) and Virginia Axline (1911–1988). A special case of a diary in this context, that has particular importance in development psychology, is known as the baby biography, and was used by psychologists such as Jean Piaget.
+Other recording methods can include video or audio. For example, forensic psychologists record custodial interrogations to aid law enforcement.
+
+
+=== Case studies ===
+
+A case study—or case report—is an intensive analysis of a person, group, or event that stresses developmental factors related to the context. Case studies may be descriptive or explanatory. Explanatory case studies explore causation to identify underlying principles. However, there is a debate to whether case studies count as a scientific research method. Clinical psychologists use case studies most often, especially to describe abnormal events and conditions, which are particularly important in clinical research. Sigmund Freud made extensive use of case studies to formulate his theory of psychoanalysis.
+Famous case studies include: Anna O. and Rat Man of Freud's Genie, who is one of the most severe cases of social isolation ever recorded, and Washoe, a chimpanzee who was the first non-human that had learned to communicate using American Sign Language.
+
+
+=== Surveys ===
+
+Interviews and questionnaires intrude as a foreign element into the social setting they would describe, they create as well as measure attitudes, they elicit atypical role and response, they are limited to those who are accessible and who will cooperate, and the responses obtained are produced in part by dimensions of individual differences irrelevant to the topic at hand.
+Bradburn et al. (1979) found a tendency for survey respondents to over-report socially desirable behaviors when interviewed using less anonymous methods.
+
+
+=== Psychometric methods ===
+
+Psychometrics is a field of study concerned with the theory and technique of psychological measurement. One part of the field is concerned with the objective measurement of skills and knowledge, abilities, attitudes, personality traits, and educational achievement.
+
+
+=== Archival methods ===
+
+Archival research can be defined as the study of existing data. The existing data is collected to answer research questions. Existing data sources may include statistical records, survey archives, previous history and written records.
+
+
+=== Cross-sectional methods ===
+
+Cross-sectional research is a research method often used in developmental psychology, but also utilized in many other areas including social science and education. This type of study utilizes different groups of people who differ in the variable of interest, but share other characteristics such as socioeconomic status, educational background, and ethnicity.
+For example, researchers studying developmental psychology might select groups of people who are remarkably similar in most areas, but differ only in age.
+
+
+=== Longitudinal methods ===
+
+Longitudinal research is a type of research method used to discover relationships between variables that are not related to various background variables. This observational research technique involves studying the same group of individuals over an extended period of time.
+Data is first collected at the outset of the study, and may then be gathered repeatedly throughout the length of the study. In some cases, longitudinal studies can last several decades.
+
+
+=== Cohort methods ===
+
+Essentially, cohort refers to people who are approximately the same age. When researchers conduct different types of studies (for example, developmental/cross sectional studies), they use cohorts to see how people of different ages compare on some topic at one point in time. For example, a researcher may compare the effects of a new study aid in three different cohorts: 10th graders, 11th graders, and 12th graders. In this way, you can examine the study aid across three different grade levels.
+
+
+=== Cross-cultural methods ===
+
+Cross-cultural psychology is a branch of psychology that looks at how cultural factors influence human behavior.
+
+
+=== Computational methods ===
+
+A discipline lying on the border between artificial intelligence and psychology. It is concerned with building computer models of human cognitive processes and is based on an analogy between the human mind and computer programs. The brain and computer are viewed as general-purpose symbol-manipulation systems, capable of supporting software processes, but no analogy is drawn at a hardware level.
+
+
+=== Unobtrusive methods ===
+
+The term unobtrusive measures was first coined by Eugene Webb, Campbell, Schwartz, and Sechrest in a 1966 book, Unobtrusive methods: Nonreactive research in the social science, in which they described methods that do not involve direct induction of data from research subjects. For example, the evidence people leave behind as they traverse their physical environment is unobtrusive. Unobtrusive methods get around biases, such as the selection bias and the experimenter's bias, that result from the researcher and his intrusion. Consequently, however, these methods reduce the researcher's control over the type of data collected.
+Web and others regard these methods as an additional tools to use with the more common reactive and intrusive methods.
+
+
+== Criticisms of Research in Psychology ==
+There are several factors that need to be considered when conducting and evaluating psychological research. One of these considerations is in how political values influence the publication and application of psychological research. For example, a study was published about child sexual abuse and how it might relate to psychopathology in college students. Though the findings claimed nothing extreme, both the political right and political left put so much pressure on the APA that eventually, the APA formally apologized for the study publicly stating that they had failed. Nothing in the methodology could be blamed, simply the implications of the findings in the study.
+Another part of psychological research that must be considered is that though we yearn for clarity in the psychological world, results are not often clean-cut. Other words, results found in one psychological study are usually not enough to establish a relationship between two factors. In order to support a hypothesis further, replication studies should be conducted. Alternate hypotheses should also be explored and considered. However, incentives to conduct replication studies are extremely low, so they do not happen often. When they do happen, they are usually not accepted by publishers.
+The current culture around publishing psychological research promotes almost solely new and appealing research. Replications, negative results, and further research into novel findings are rarely published. Consequently, to many researchers, it seems that gaining more funds along with a reputation for exciting research has become more important than seeking out the truth.
+The peer review process is another aspect of psychological research that has been criticized. Though there are some positive aspects to the peer review process, it is not designed well enough to detect fraud. There are many studies that have passed through several peer reviews that have later been found to be fraudulent.
+
+
+== See also ==
+Experimental psychology
+List of psychological research methods
+Natural experiment
+Quantitative psychological research
+Qualitative psychological research
+Scientific method
+Design of experiments
+Sociological research
+
+
+== References ==
+
+
+== Further reading ==

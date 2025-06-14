@@ -1,0 +1,94 @@
+In social science research social-desirability bias is a type of response bias that is the tendency of survey respondents to answer questions in a manner that will be viewed favorably by others. It can take the form of over-reporting "good behavior" or under-reporting "bad" or undesirable behavior. The tendency poses a serious problem with conducting research with self-reports. This bias interferes with the interpretation of average tendencies as well as individual differences.
+
+
+== Topics subject to social-desirability bias ==
+Topics where socially desirable responding (SDR) is of special concern are self-reports of abilities, personality, sexual behavior, and drug use. When confronted with the question "How often do you masturbate?," for example, respondents may be pressured by a social taboo against masturbation, and either under-report the frequency or avoid answering the question. Therefore, the mean rates of masturbation derived from self-report surveys are likely to be severely underestimated.
+When confronted with the question, "Do you use drugs/illicit substances?" the respondent may be influenced by the fact that controlled substances, including the more commonly used marijuana, are generally illegal. Respondents may feel pressured to deny any drug use or rationalize it, e.g. "I only smoke marijuana when my friends are around." The bias can also influence reports of number of sexual partners. In fact, the bias may operate in opposite directions for different subgroups: Whereas men tend to inflate the numbers, women tend to underestimate theirs. In either case, the mean reports from both groups are likely to be distorted by social desirability bias.
+Other topics that are sensitive to social-desirability bias include:
+
+Feelings of psychological distress 
+Self-reported personality traits will correlate strongly with social desirability bias
+Personal income and earnings, often inflated when low and deflated when high
+Feelings of low self-worth and/or powerlessness, often denied
+Excretory functions, often approached uncomfortably, if discussed at all
+Compliance with medicinal-dosing schedules, often inflated
+Family planning, including use of contraceptives and abortion
+Religion, often either avoided or uncomfortably approached
+Patriotism, either inflated or, if denied, done so with a fear of other party's judgment
+Bigotry and intolerance, often denied, even if it exists within the responder
+Intellectual achievements, often inflated
+Physical appearance, either inflated or deflated
+Acts of real or imagined physical violence, often denied
+Indicators of charity or "benevolence," often inflated
+Illegal acts, often denied
+Voter turnout
+Support for far-right parties
+
+
+== Individual differences in socially desirable responding ==
+In 1953, Allen L. Edwards introduced the notion of social desirability to psychology, demonstrating the role of social desirability in the measurement of personality traits. He demonstrated that social desirability ratings of personality trait descriptions are very highly correlated with the probability that a subsequent group of people will endorse these trait self-descriptions. In his first demonstration of this pattern, the correlation between one group of college students’ social desirability ratings of a set of traits and the probability that college students in a second group would endorse self-descriptions describing the same traits was so high that it could distort the meaning of the personality traits. In other words, do these self-descriptions describe personality traits or social desirability?
+Edwards subsequently developed the first Social Desirability Scale, a set of 39, true-false questions extracted from the Minnesota Multiphasic Personality Inventory (MMPI), questions that judges could, with high agreement, order according to their social desirability. These items were subsequently found to be very highly correlated with a wide range of measurement scales, MMPI personality and diagnostic scales. The SDS is also highly correlated with the Beck Hopelessness Inventory.
+The fact that people differ in their tendency to engage in socially desirable responding (SDR) is a special concern to those measuring individual differences with self-reports. Individual differences in SDR make it difficult to distinguish those people with good traits who are responding factually from those distorting their answers in a positive direction.
+When SDR cannot be eliminated, researchers may resort to evaluating the tendency and then control for it. A separate SDR measure must be administered together with the primary measure (test or interview) aimed at the subject matter of the research/investigation. The key assumption is that respondents who answer in a socially desirable manner on that scale are also responding desirably to all self-reports throughout the study.
+In some cases, the entire questionnaire package from high scoring respondents may simply be discarded. Alternatively, respondents' answers on the primary questionnaires may be statistically adjusted commensurate with their SDR tendencies. For example, this adjustment is performed automatically in the standard scoring of MMPI scales.
+The major concern with SDR scales is that they confound style with content. After all, people actually differ in the degree to which they possess desirable traits (e.g. nuns versus criminals). Consequently, measures of social desirability confound true differences with social-desirability bias.
+
+
+== Standard measures of individual SDR ==
+Until the 1990s, the most commonly used measure of socially desirable responding was the Marlowe–Crowne Social Desirability Scale. The original version comprised 33 True-False items. A shortened version, the Strahan–Gerbasi only comprises ten items, but some have raised questions regarding the reliability of this measure.
+In 1991, Delroy L. Paulhus published the Balanced Inventory of Desirable Responding (BIDR): a questionnaire designed to measure two forms of SDR. This forty-item instrument provides separate subscales for "impression management," the tendency to give inflated self-descriptions to an audience; and self-deceptive enhancement, the tendency to give honest but inflated self-descriptions. The commercial version of the BIDR is called the "Paulhus Deception Scales (PDS)."
+Scales designed to tap response styles are available in all major languages, including Italian and German.
+
+
+== Techniques to reduce social-desirability bias ==
+
+
+=== Anonymity and confidentiality ===
+Anonymous survey administration, compared with in-person or phone-based administration, has been shown to elicit higher reporting of items with social-desirability bias.  In anonymous survey settings, the subject is assured that their responses will not be linked to them, and they are not asked to divulge sensitive information directly to a surveyor.  Anonymity can be established through self-administration of paper surveys returned by envelope, mail, or ballot boxes, or self-administration of electronic survey via computer, smartphone, or tablet. Audio-assisted electronic surveys have also been established for low-literacy or non-literate study subjects.
+Confidentiality can be established in non-anonymous settings by ensuring that only study staff are present and by maintaining data confidentiality after surveys are complete.  Including assurances of data confidentiality in surveys has a mixed effect on sensitive-question response; it may either increase response due to increased trust, or decrease response by increasing suspicion and concern.
+
+
+=== Specialized questioning techniques ===
+Several techniques have been established to reduce bias when asking questions sensitive to social desirability. Complex question techniques may reduce social-desirability bias, but may also be confusing or misunderstood by respondents.
+Beyond specific techniques, social-desirability bias may be reduced by neutral question and prompt wording.
+
+
+==== Ballot Box Method ====
+The Ballot Box Method (BBM) provides survey respondents anonymity by allowing them to respond in private by self-completing their responses to the sensitive survey questions on a secret ballot and submitting them to a locked box. The interviewer has no knowledge of what is recorded on the secret ballot and does not have access to the lock on the box, providing obscurity to the responses and limiting the potential for SDB. However, a unique control number on each ballot allows the answers to be reunited with a corresponding questionnaire that contains less sensitive questions. The BBM has been used successfully to obtain estimates of sensitive sexual behaviours during an HIV prevention study, as well as illegal environmental resource use. In a validation study where observed behaviour was matched to reported behaviour using various SDB control methods, the BBM was by far the most accurate bias reduction method, performing significantly better than the Randomized Response Technique (RRT). 
+
+
+==== Randomized response techniques ====
+The randomized response technique asks a participant to respond with a fixed answer or to answer truthfully based on the outcome of a random act. For example, respondents secretly throw a coin and respond "yes" if it comes up heads (regardless of their actual response to the question), and are instructed to respond truthfully if it comes up tails. This enables the researcher to estimate the actual prevalence of the given behavior among the study population without needing to know the true state of any one individual respondent. Research shows that the validity of the randomized response technique is limited. Validation research has shown that the RRT actually performs worse than direct questioning for some sensitive behaviours and care should be taken when considering its use. 
+
+
+==== Nominative and best-friend techniques ====
+The nominative technique asks a participant about the behavior of their close friends, rather than about their own behavior.  Participants are asked how many close friends they know have done for certain a sensitive behavior and how many other people they think know about that behavior.  Population estimates of behaviors can be derived from the response.
+The similar best-friend methodology asks the participant about the behavior of one best friend.
+
+
+==== Unmatched-count technique ====
+The unmatched-count technique asks respondents to indicate how many of a list of several items they have done or are true for them. Respondents are randomized to receive either a list of non-sensitive items or that same list plus the sensitive item of interest.  Differences in the total number of items between the two groups indicate how many of those in the group receiving the sensitive item said yes to it.
+
+
+==== Grouped-answer method ====
+The grouped-answer method, also known as the two-card or three-card method, combines answer choices such that the sensitive response is combined with at least one non-sensitive response option.
+
+
+==== Crosswise, triangular, and hidden-sensitivity methods ====
+These methods ask participants to select one response based on two or more questions, only one of which is sensitive.  For example, a participant will be asked whether their birth year is even and whether they have performed an illegal activity; if yes to both or no to both, to select A, and if yes to one but no to the other, select B.  By combining sensitive and non-sensitive questions, the participant's response to the sensitive item is masked. Research shows that the validity of the crosswise model is limited.
+
+
+==== Bogus pipeline ====
+Bogus-pipeline techniques are those in which a participant believes that an objective test, like a lie detector, will be used along with survey response, whether or not that test or procedure is actually used. Researches using this technique must convince the participants that there is a machine that can measure accurately their true attitudes and desires. While this can raise ethical questions surrounding deception in psychological research, this technique quickly became widely popular in the 1970s. However, by the 1990s the use of this technique began to wane. Interested in this change, Roese and Jamison (1993) took twenty years of research to do a meta-analysis on the effectiveness of the Bogus pipeline technique in reducing social desirability bias. They concluded that while the Bogus pipeline technique was significantly effective, it had perhaps become less used simply because it went out of fashion, or became cumbersome for researchers to use regularly. However, Roese and Jamison argued that there are simple adjustments that can be made to this technique to make it more user-friendly for researchers. 
+
+
+== Other response styles ==
+"Extreme-response style" (ERS) takes the form of exaggerated-extremity preference, e.g. for '1' or '7' on 7-point scales. Its converse, 'moderacy bias' entails a preference for middle-range (or midpoint) responses (e.g. 3–5 on 7-point scales).
+"Acquiescence" (ARS) is the tendency to respond to items with agreement/affirmation independent of their content ("yea"-saying).
+These kinds of response styles differ from social-desirability bias in that they are unrelated to the question's content and may be present in both socially neutral and in socially favorable or unfavorable contexts, whereas SDR is, by definition, tied to the latter.
+
+
+== See also ==
+
+
+== References ==

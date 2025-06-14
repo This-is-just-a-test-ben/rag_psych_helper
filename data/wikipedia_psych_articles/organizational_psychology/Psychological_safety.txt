@@ -1,0 +1,85 @@
+Psychological safety is the belief that one will not be punished or humiliated for speaking up with ideas, questions, concerns, or mistakes. In teams, it refers to team members believing that they can take risks without being shamed by other team members. In psychologically safe teams, team members feel accepted and respected contributing to a better "experience in the workplace". It is also the most studied enabling condition in group dynamics and team learning research.
+Psychological safety benefits organizations and teams in many different ways. There are multiple empirically supported consequences of a team being psychologically safe.
+Most of the research on the effects of psychological safety has focused on benefits, but there are some drawbacks that have been studied.
+Psychological safety has been an important discussion area in the field of psychology, behavioral management, leadership, teams, and healthcare. Results from a number of empirical studies conducted in various regions and countries show that psychological safety plays an important role in workplace effectiveness (Edmondson and Lei, 2014). It has consistently played an important role by facilitating ideas and activities to a shared enterprise. It also enables teams and organizations to learn and perform and in recent years, it has become a more significant organizational phenomenon due to the increased necessity of learning and innovation.
+
+
+== History ==
+The term 'psychological safety' was coined by the psychologist and psychotherapist Carl Rogers in the 1950s in the context of establishing the conditions necessary to foster an individual's creativity. According to Rogers, psychological safety is associated with three processes: accepting the individual as of unconditional worth; providing a climate in which external evaluation is absent; and understanding empathically. Hubert Bonner, a professor of psychology at Ohio Wesleyan University used the term in the context of human needs for security. In addition to physiological and safety needs, he wrote, an individual needs to believe in something to feel secure, even clinging to those beliefs in the face of contrary evidence, because they provide "psychological safety".
+In the context of "laboratory training" and T-groups to effect organizational change, Schein and Bennis, in 1965, defined it as "an atmosphere where one can take chances (which experimentalism implies) without fear and with sufficient protection (...) thus a climate is built which encourages provisional tries and which tolerates failure without retaliation, renunciation, or guilt".
+Point 8 of W. E. Deming's 14 Points For Management, written in 1982, of "Drive out fear, so that everyone may work effectively for the company"  highlights a similar growing realisation, in contrast to previous Taylorist management approaches, that the creation of environments where it is interpersonally safe to raise concerns is of crucial importance to realising high quality business outcomes.
+Explicit interest in psychological safety was renewed by Kahn in the 1990s, through qualitative studies which showed that psychological safety enables people to "employ or express themselves physically, cognitively, and emotionally". This was in parallel with emerging progressive management paradigms at the time such as safety culture and the Toyota Production System that introduced a physical representation of psychological safety, the Andon Cord, which explicitly provides employees with the empowerment to raise issues or concerns.
+
+
+== Social aspects ==
+Psychological safety is a group-level phenomenon. Research on team effectiveness emphasises input-process-output (IPO) models, and some studies see psychological safety as an input that promotes team performance through team learning as a mediator (process).
+A significant antecedent of psychological safety is trust (input) which plays an important role in knowledge sharing as well as a mediating (process) role partially (Zhang et al., 2010). A number of studies show that psychological safety is a mediator of relationships between antecedent (similar to 'input variables' in the input-process-output model) including organizational context, team characteristics and team leadership, and outcomes (similar to 'output variables' in IPO model) of innovation, performance, learning, and improvement  in or by a team. Although psychological safety has a significant effect as a mediator in explaining team outcomes, it also plays a role as a moderator. Here, psychological safety as a mediator acts as an input in case of teamwork as well as process or emergent state.  Due to the boundary condition, it may not help teams to learn when particular conditions such as absence of interdependence are supporting teamwork.
+When team members are motivated at work and want to share an idea for improving performance, they frequently do not speak up because they fear that they will be harshly judged.  When psychological safety is present, team members think less about the potential negative consequences of expressing a new or different idea than they would otherwise.  As a result, they speak up more when they feel psychologically safe and are motivated to improve their team or company.
+Given its current status (in 2022) as an emergent type of safety (e.g. as compared with the older idea of physical safety), it is easy to confuse psychological safety with more well-established concepts such as trust and psychological mindfulness.  A primary difference between psychological safety and trust is that psychological safety focuses on a belief about a group norm – emerging from the group's common experiences/perceptions regarding the expected consequences from taking interpersonal risks, in context of its social norms defining the 'correct' in-group behaviours and interactions (e.g. as part of organisational safety culture/climate). Compared with the phenomena of trust, psychological safety has been observed to occur more often in context of larger groups than the typically dyad focused nature of trusting relationships(e.g. as a relationship clinicians have in mind with their host organisations); additionally a sort of 'temporally immediate' (i.e. right now) feeling seems to characterise the experience of psychological safety, rather than the typically deferred (i.e. much later) feeling co-present in experiencing trust. These differences between the concepts of psychological safety and trust are becoming established in institutional/organisational study contexts, where trust focuses on a belief and view that one person has about another, whereas psychological safety can be defined by how members of larger social groups think they are viewed by others in the group.
+Mindfulness is also different from psychological safety in that mindfulness is about being aware of one's surroundings but psychological safety is focused on being respected in a group.  Moreover, the most studied result of psychological safety, team learning, is defined as a group adjusting to its surrounding through outwardly sharing observations about their environment. However, mindfulness is an individual becoming internally enlightened about his/her environment.
+
+
+== Benefits ==
+There has been a wide amount of empirical research on the benefits of psychologically safety since the concept was created. The following are the most empirically supported benefits of a team being psychologically safe.
+
+
+=== Improves likelihood of process innovation success ===
+Multiple studies have shown businesses’ efforts in process innovation have had moderate to no success and have not improved firm performance. Psychological safety is shown to be an effective and important moderator of the relationship between process innovation and firm performance. This is due to cooperation being an important factor in process innovation. To have cooperation, it’s important to have an environment where people feel safe to share ideas.
+Psychological safety is shown to have both direct and indirect effects on “manufacturing process innovation (MPI) performance.” It directly increases MPI performance as there is a greater likelihood of successful implementation of these process innovations when team members feel safe to speak up about problems and use everyone’s knowledge to help solve the problem. It also serves as a mediator as having established processes of sharing information increases psychological safety in teams which leads to MPI performance improvement
+
+
+=== Learning from mistakes ===
+In hospital units, members believing they will not be punished for reporting mistakes were correlated with higher rates of errors being detected. This illustrates a cycle in which members in units with psychological safety discuss errors more, which leads to other members being more willing to report errors in the future as there is less risk associated with reporting mistakes.
+
+
+=== Improves employee engagement ===
+A study surveying employees at a manufacturing company in China found that psychological safety did not directly affect employee engagement at work, but did affect it indirectly with employees voicing their thoughts as a mediator. When the perceived risks of speaking up are low, meaning psychological safety is high, employees feel more comfortable sharing their opinions which leads to more engagement in their work.
+
+
+=== Increases team innovation and creativity ===
+A study examining research & development teams from multiple industries in China found that psychological safety is a mediator of the relationship between team leaders’ cooperative conflict management style and team innovation performance. When team leaders have a cooperative conflict management style, psychological safety in teams is increased because conflict is solved through open communication and cooperation between the team leader and team members. Through this effect of increasing psychological safety, team innovation performance is further improved.
+A study examining 180 employees in research & development teams in 8 organizations found that psychological safety is a mediator of the relationship between leadership and employee creativity. Inclusive leadership increases psychological safety because when leaders show they are open and available to listen, employees feel that it is safe to share new ideas. In turn, psychological safety increases employee involvement in creative work. This is because employees feel safe to engage in creative work such as questioning ideas and procedures and sharing their new ideas or suggestions for changes.
+
+
+== Drawbacks ==
+
+
+=== Changing positive effects: "Too-much-of-a-good-thing" effect ===
+Much of the research on psychological safety has focused on the benefits it has for teams. However, research in management literature suggests that antecedents normally positively associated with desired outcomes eventually reach a point where the relationship turns negative. This is known as the "too-much-of-a-good-thing" (TMGT) effect. For example, there is an inverted U-shaped relationship between conscientiousness and performance, meaning conscientiousness initially has a positive effect on performance, but too much leads to a decrease in performance.
+
+
+=== Mediates unethical behavior ===
+One study examining these potential negative outcomes looked at the effects of utilitarianism on unethical behavior in teams with psychological safety has a mediator. The results showed that teams whose members are more utilitarian were more likely to engage in unethical behavior like cheating. This effect was even more pronounced in teams with higher levels of psychological safety.
+
+
+=== Lowers motivation ===
+More recent research highlights the negative effects of psychological safety on work motivation in group members and a further resulting negative effect on taking risks. Higher psychological safety was associated with lower motivation. Through the motivation mechanism, it led to group members being less likely to speak up about new ideas or voice any concerns and also less likely to learn and improve on their processes.
+
+
+== Psychological safety versus accountability ==
+Psychological safety and accountability are often viewed as distinct yet complementary concepts in fostering effective team dynamics and organizational culture. Psychological safety, as defined by Edmondson (1999), refers to an environment where individuals feel safe to express opinions, admit mistakes, and take risks without fear of ridicule or retribution. This openness encourages innovation, collaboration, and learning, as team members are more likely to share diverse perspectives and ideas. Accountability, on the other hand, involves individuals taking ownership of their responsibilities and actions, ensuring tasks are completed effectively and goals are met (Kegan & Lahey, 2016). While psychological safety fosters trust and open communication, accountability reinforces the discipline needed to achieve collective objectives.
+The overlap between psychological safety and accountability lies in their shared goal of creating high-performing teams. As Edmondson (2019) explains, psychological safety is the foundation for healthy accountability because it allows individuals to admit errors, seek help, and learn from their mistakes without fear of blame. This dynamic aligns with research by Frazier et al. (2017), which shows that teams with high psychological safety also exhibit higher levels of performance and accountability. When combined, these concepts enable organizations to navigate challenges with a balance of support and responsibility. This synergy ensures that individuals are both empowered to contribute authentically and motivated to uphold their commitments, resulting in a culture of trust, transparency, and shared success.
+
+
+== Increasing psychological safety in teams ==
+Leaders as well as some aspects of the team can increase team members' psychological safety.  Two aspects of leadership have been shown to be particularly instrumental in creating a psychologically safe team.  They are leaders using:
+
+Participatory management
+Inclusive management
+There are also two aspects of a team that help improve its psychological safety.  They are:
+
+A clear team structure where members understand their role on the team
+Strong relationships between cohesive team members
+
+
+== Psychological safety in healthcare ==
+Psychological safety in healthcare can be enhanced through structured initiatives such as tiered huddles, as demonstrated in the Veterans Affairs Medical Center’s implementation process. These tiered huddles promote robust collaboration and communication across all organizational levels, enabling timely identification and resolution of safety concerns. By fostering an environment where staff feel empowered to share concerns without fear of retribution, these huddles contribute significantly to patient safety and quality care. The initiative also highlighted the importance of leadership commitment and ongoing feedback mechanisms in creating psychologically safe spaces for staff to raise and address issues effectively.
+The concept of psychological safety has been further validated by research demonstrating its critical role in fostering environments where healthcare professionals feel secure to share ideas, admit mistakes, and tackle challenges. This openness enhances communication, teamwork, and decision-making, which are essential in high-stakes settings such as hospitals. Additionally, psychological safety serves as a foundational element for High reliability organizations, ensuring better patient outcomes and organizational efficiency through structured communication practices and a culture of continuous learning.
+
+
+== See also ==
+
+Sociocracy
+
+
+== References ==

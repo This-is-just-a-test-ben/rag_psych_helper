@@ -1,0 +1,128 @@
+Questionnaire construction refers to the design of a questionnaire to gather statistically useful information about a given topic. When properly constructed and responsibly administered, questionnaires can provide valuable data about any given subject.
+
+
+== Questionnaires ==
+
+Questionnaires are frequently used in quantitative marketing research and social research. They are a valuable method of collecting a wide range of information from a large number of individuals, often referred to as respondents.
+What is often referred to as "adequate questionnaire construction" is critical to the success of a survey. Inappropriate questions, incorrect ordering of questions, incorrect scaling, or a bad questionnaire format can make the survey results valueless, as they may not accurately reflect the views and opinions of the participants.
+Different methods can be useful for checking a questionnaire and making sure it is accurately capturing the intended information. Initial advice may include:
+
+consulting subject-matter experts
+using questionnaire construction guidelines to inform drafts, such as the Tailored Design Method, or those produced by National Statistical Organisations.
+Empirical tests also provide insight into the quality of the questionnaire. This can be done by:
+
+conducting cognitive interviewing, asking a sample of potential-respondents about their interpretation of the questions and use of the questionnaire.
+carrying out a small pretest of the questionnaire, using a small subset of target respondents. Results can inform a researcher of errors such as missing questions, or logical and procedural errors.
+estimating the measurement quality of the questions. This can be done for instance using test-retest, quasi-simplex, or mutlitrait-multimethod models.
+predicting the measurement quality of the question. This can be done using the software Survey Quality Predictor (SQP).
+
+
+== Test items ==
+In the realm of psychological testing and questionnaires, an individual task or question is referred to as a test Item or item. These items serve as fundamental components within questionnaire and psychological tests, often tied to a specific latent psychological construct (see operationalization). Each item produces a value, typically a raw score, which can be aggregated across all items to generate a composite score for the measured trait.
+Test items generally encompass three primary components:
+
+Item stem: This represents the question, statement, or task presented.
+Answer format: The manner in which the respondent provides an answer, including options for multiple-choice questions.
+Evaluation criteria: The criteria used to assess and score the response.
+The degree of standardization varies, ranging from strictly prescribed questions with predetermined answers to open-ended questions with subjective evaluation criteria.
+Responses to test items serve as indicators in the realm of social sciences.
+
+
+== Types of questions ==
+Questions, or items, may be:
+
+Closed-ended questions – Respondents' answers are limited to a fixed set of responses.
+Yes/no questions – The respondent answers with a "yes" or a "no".
+Multiple choice – The respondent has several option from which to choose.
+Scaled questions – Responses are graded on a continuum (e.g.: rate the appearance of the product on a scale from 1 to 10, with 10 being the most preferred appearance). Examples of types of scales include the Likert scale, semantic differential scale, and rank-order scale. (See scale for further information)
+Matrix questions – Identical response categories are assigned to multiple questions. The questions are placed one under the other, forming a matrix with response categories along the top and a list of questions down the side. This is an efficient use of page space and the respondents' time.
+Open-ended questions – No options or predefined categories are suggested. The respondent supplies their own answer without being constrained by a fixed set of possible responses. Examples include:
+Completely unstructured – For example, "What is your opinion on questionnaires?"
+Word association – Words are presented and the respondent mentions the first word that comes to mind.
+Sentence completion – Respondents complete an incomplete sentence. For example, "The most important consideration in my decision to buy a new house is..."
+Story completion – Respondents complete an incomplete story.
+Picture completion – Respondents fill-in an empty speech balloon.
+Thematic apperception test – Respondents explain a picture or create a story about what they think is happening in the picture.
+Contingency question – A question that is answered only if the respondent gives a particular response to a previous question. This avoids asking questions of people that do not apply to them (for example, asking men if they have ever been pregnant).
+
+
+== Multi-item scales ==
+
+Within social science research and practice, questionnaires are most frequently used to collect quantitative data using multi-item scales with the following characteristics:
+
+Multiple statements or questions (minimum ≥3; usually ≥5) are presented for each variable being examined.
+Each statement or question has an accompanying set of equidistant response-points (usually 5-7).
+Each response point has an accompanying verbal anchor (e.g., “strongly agree”) ascending from left to right.
+Verbal anchors should be balanced to reflect equal intervals between response-points.
+Collectively, a set of response-points and accompanying verbal anchors are referred to as a rating scale. One very frequently-used rating scale is a Likert scale.
+Usually, for clarity and efficiency, a single set of anchors is presented for multiple rating scales in a questionnaire.
+Collectively, a statement or question with an accompanying rating scale is referred to as an item.
+When multiple items measure the same variable in a reliable and valid way, they are collectively referred to as a multi-item scale, or a psychometric scale.
+The following types of reliability and validity should be established for a multi-item scale: internal reliability, test-retest reliability (if the variable is expected to be stable over time), content validity, construct validity, and criterion validity.
+Factor analysis is used in the scale development process.
+Questionnaires used to collect quantitative data usually comprise several multi-item scales, together with an introductory and concluding section.
+
+
+== Pretesting ==
+
+Pretesting is testing and evaluating whether a questionnaire causes problems that could affect data quality and data collection for interviewers or survey respondents.  
+Pretesting methods can be quantitative or qualitative, and can be conducted in a laboratory setting or in the field.
+
+Cognitive interviewing examines the respondent's thought process as they answer the questions or afterwards. The interviewer directs the respondent to think aloud or administer verbal probes. It can also be conducted online without an interviewer.
+Usability testing focuses on how people interact with the survey, such as navigating the survey, entering survey responses, and finding help information.
+Vignettes are short descriptions of hypothetical situations that are presented to research participants to examine their survey-relevant decisions.
+Behavioral coding (or behavior coding) monitors the interviewer and respondent' verbal interactions in live or recorded interviews, or from transcripts. Questions are identified as needing repair when certain behaviors are coded frequently, such as respondents asking for clarifications.
+Expert review is conducted by an individual expert or a panel of experts in questionnaire design to identify potential problems and solutions.
+Experimental comparisons test the impact of the revised items by comparing it with the original items.
+Statistical modeling applies methods such as latent class analysis and item response theory.
+A multiple-method approach helps to triangulate results. For example, cognitive interviews, usability testing, behavior coding, and/or vignettes can be combined for pretesting.
+
+
+== Questionnaire construction issues ==
+Before constructing a questionnaire survey, it is advisable to consider how the results of the research will be used.  If the results won't influence the decision-making process, budgets won't allow implementing the findings, or the cost of research outweighs its usefulness, then there is little purpose in conducting the research.
+The research objective(s) and frame-of-reference should be defined beforehand, including the questionnaire's context of time, budget, manpower, intrusion and privacy. The types of questions (e.g.: closed, multiple-choice, open) should fit the data analysis techniques available and the goals of the survey.
+The manner (random or not) and location (sampling frame) for selecting respondents will determine whether the findings will be representative of the larger population.
+The level of measurement – known as the scale, index, or typology – will determine what can be concluded from the data. A yes/no question will only reveal how many of the sample group answered yes or no, lacking the resolution to determine an average response. The nature of the expected responses should be defined and retained for interpretation.
+A common method is to "research backwards" in building a questionnaire by first determining the information sought (i.e., Brand A is more/less preferred by x% of the sample vs. Brand B, and y% vs. Brand C), then being certain to ask all the needed questions to obtain the metrics for the report. Unneeded questions should be avoided, as they are an expense to the researcher and an unwelcome imposition on the respondents. All questions should contribute to the objective(s) of the research.
+Topics should fit the respondents' frame of reference, as their background may affect their interpretation of the questions. Respondents should have enough information or expertise to answer the questions truthfully. Writing style should be conversational, yet concise and accurate and appropriate to the target audience and subject matter. The wording should be kept simple, without technical or specialized vocabulary. Ambiguous words, equivocal sentence structures and negatives may cause misunderstanding, possibly invalidating questionnaire results. Double negatives should be reworded as positives.
+If a survey question actually contains more than one issue, the researcher will not know which one the respondent is answering. Care should be taken to ask one question at a time.
+Questions and prepared responses (for multiple-choice) should be neutral as to intended outcome. A biased question or questionnaire encourages respondents to answer one way rather than another. Even questions without bias may leave respondents with expectations. The order or grouping of questions is also relevant; early questions may bias later questions. Loaded questions evoke emotional responses and may skew results.
+The list of prepared responses should be collectively exhaustive; one solution is to use a final write-in category for "other ________". The possible responses should also be mutually exclusive, without overlap. Respondents should not find themselves in more than one category, for example in both the "married" category and the "single" category (in such a case there may be need for separate questions on marital status and living situation).
+Many people will not answer personal or intimate questions. For this reason, questions about age, income, marital status, etc. are generally placed at the end of the survey. This way, even if the respondent refuses to answer these questions, he/she will have already answered the research questions.
+Visual presentation of the questions on the page (or computer screen) and use of white space, colors, pictures, charts, or other graphics may affect respondent's interest – or distract from the questions. There are four primary design elements: words (meaning), numbers (sequencing), symbols (e.g. arrow), and graphics (e.g. text boxes). In translated questionnaires, the design elements also take into account the writing practice (e.g. Spanish words are lengthier and require more space on the page or on the computer screen) and text orientation (e.g. Arabic is read from right to left) to prevent data missingness.  
+Questionnaires can be administered by research staff, by volunteers or self-administered by the respondents. Clear, detailed instructions are needed in either case, matching the needs of each audience
+
+
+=== Methods of collection ===
+
+There are a number of channels, or modes, that can be used to administer a questionnaire. Each has strengths and weaknesses, and therefore a researcher will generally need to tailor their questionnaire to the modes they will be using. For example, a questionnaire designed to be filled-out on paper may not operate in the same way when administered by telephone. These mode effects may be substantial enough that they threaten the validity of the research.
+Using multiple modes can improve access to the population of interest when some members have different access, or have particular preferences.
+
+
+=== Question wording ===
+
+The way that a question is phrased can have a large impact on how a research participant will answer the question. Thus, survey researchers must be conscious of their wording when writing survey questions. It is important for researchers to keep in mind that different individuals, cultures, and subcultures can interpret certain words and phrases differently from one another.
+There are two different types of questions that survey researchers use when writing a questionnaire: free-response questions and closed questions. Free-response questions are open-ended, whereas closed questions are usually multiple-choice. Free-response questions are beneficial because they allow the responder greater flexibility, but they are also very difficult to record and score, requiring extensive coding. Contrastingly, closed questions can be scored and coded more easily, but they diminish expressivity and spontaneity of the responder.   Some problems with the wording of questions are obvious  and may be intentional, particularly in psuedopolls, whose sponsors are seeking specific results.     Wording problems can arise on routine topics in legtimate surveyss    If question wording can affect measurement of relatively objective matters, such as a person's age, the number of children in a family, or the frequency of news watching, then how much might wording affect more subjective phenomena?     
+In general, the vocabulary of a question should be very simple and direct, and preferably under twenty words. Each question should be edited for readability and should avoid leading or loaded questions. If multiple questions are being used to measure one construct, some of the questions should be worded in the opposite direction to evade response bias.
+A respondent's answer to an open-ended question can be coded into a response scale afterwards, or analysed using more qualitative methods.    Two studies demonstrate both the importance of question wording and the differential impact it can have on different subsets of citizens.   The first study examined how the use of the terms "global warming" versus "climate change" influenced Americans' opinions about the world's changing environment.   Another study also demonstrates the importance of question wording and how it affects subsets of respondents.
+
+
+=== Question sequence ===
+
+Questions should flow logically, from the general to the specific, from least to most   sensitive, from factual and behavioral matters to attitudes and opinions. When semi-automated, they should flow from unaided to aided questions. The researcher should ensure that the answer to a question is not influenced by previous questions.
+According to the three-stage theory (also called the sandwich theory), questions should be asked in three stages:
+
+screening and rapport questions
+product-specific questions
+demographic types of questions
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+Reynolds, Cecil R.; Altmann, Robert A.; Allen, Daniel N. (2021). "Item Development". Mastering Modern Psychological Testing. pp. 223–262. doi:10.1007/978-3-030-59455-8_6. ISBN 978-3-030-59454-1.
+Koo, Malcolm; Yang, Shih-Wei (2025). "Questionnaire Use and Development in Health Research". Encyclopedia. 5 (2): 65. doi:10.3390/encyclopedia5020065.
