@@ -1,0 +1,15 @@
+# .gitignore
+
+# API key
+.env
+
+# Python virtual environment
+rag_env/
+
+# ChromaDB persistent vector storage
+research_db/
+chroma_db/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
