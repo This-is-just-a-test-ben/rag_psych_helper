@@ -11,13 +11,35 @@ This assistant is ideal for:
 
 ## Project Overview
 
-1. Load & Chunk: Local `.txt` files are recursively loaded and chunked with LangChain's `RecursiveCharacterTextSplitter`.
-2. Embed & Store: Chunks are embedded using SentenceTransformers (`all-MiniLM-L6-v2`) and stored in ChromaDB.
-3. Query & Retrieve: The assistant embeds your natural language query and retrieves the top relevant chunks.
-4. Generate Answer: A system prompt is created, and OpenAI’s GPT model answers using the retrieved context (personal ChatGPT API required).
-5. System accepts to natural language questions.
-6. Returns a contextual, grounded response
+This project implements a domain-specific Retrieval-Augmented Generation (RAG) system focused on psychology-related content. It leverages a combination of open-source tools and APIs to ground LLM responses in local documents.
 
+The system workflow:
+
+1. Load & Chunk: After scrapping the relevant pages for text files are saved in a local folder. Local .txt files are recursively loaded and chunked into an appropriate size with LangChain's RecursiveCharacterTextSplitter.
+2. Embed & Store: Chunks are embedded using SentenceTransformers (all-MiniLM-L6-v2) and stored in local ChromaDB instance, which allows for consistent search.
+3. Query & Retrieve: A user asks a question, the prompt is embedded and the most relevant chunks are retrieved.
+4. Generate Answer: A system prompt is created, and OpenAI’s GPT model answers using the retrieved context (personal ChatGPT API required). The model generates a natural language answer using only the retrieved context.
+5. Continued User Interaction: Users continue to interact with the assistant through the terminal interface, submitting questions. The assistant returns a grounded, contextual response using the embedded content. Questions may include, but are not limited to:
+- “What is employee engagement?”
+- “How do researchers define survey consistency?
+
+## Future Directions
+
+Several enhancements are planned or possible:
+
+- UX: Develop a basic web interface or chatbot frontend for non-technical users.
+- Additional source material - Allow input from PDFs, URLs, or APIs in addition to `.txt` files. In addition, draw from a wider knowledge base than Wikipedia.
+- Agentic pipeline - Introduce workflow agents (e.g., summarizers, taggers) to assist researchers beyond Q&A.
+- Broader domains - Adapt the RAG assistant to other disciplines such as law, finance, or healthcare.
+- Creativity - Adjust temperature and test to determine how creative the RAG can be before results stray.
+
+This project lays the foundation for intelligent assistants that can operate within real-world constraints, grounded in trustworthy content and guided by user intent.
+
+## Conclusion
+
+This project demonstrates how a Retrieval-Augmented Generation (RAG) system can be used to ground large language models in a domain-specific dataset. By embedding curated psychology content and connecting it with OpenAIs GPT, the assistant delivers contextually accurate responses. The modular and open-source design makes it easy to adapt for other academic or professional domains.
+
+This assistant satisfies the goals of agentic AI by combining external tools (ChromaDB), autonomous reasoning (query formulation and response synthesis), and memory-based decision-making (semantic chunk retrieval). The project also adheres to open-source best practices.
 
 ## How to Run
 
